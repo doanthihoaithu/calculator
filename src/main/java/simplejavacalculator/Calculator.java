@@ -112,11 +112,7 @@ public class Calculator {
     //Operator
 
     public Double add(Double a, Double b) {
-        if (b != 0) {
-            return a + b;
-        }
-
-        return a;
+        return a+b;
     }
 
     public Double minus(Double a, Double b) {
