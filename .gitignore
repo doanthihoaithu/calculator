@@ -2,6 +2,8 @@
 /build/
 /dist/
 *.class
+/target
+/.idea
 
 # Mac OS System
 .DS_Store*
